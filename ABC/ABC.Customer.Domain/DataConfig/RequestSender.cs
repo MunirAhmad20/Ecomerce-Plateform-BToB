@@ -206,4 +206,4 @@ namespace ABC.Customer.Domain.DataConfig
             }
         }
     }
-}
+}   
